@@ -21,7 +21,9 @@ This two-credit course will meet the last seven weeks of the semester.
 
 <strong>Credit where credit is due:</strong> This is a class explicitly about re-using content to create new work, which means we are naturally going to be relying on other people's creative efforts as a basis for our own. However, that doesn't mean plagiarism is condoned. Please credit sources, inspiration, and code wherever necessary. 
 
-<strong>Required text:</strong> <em>Remix</em> by Lawrence Lessig (available in hardcover, paperback, and Kindle)
+<strong>Required text:</strong> <em>Remix</em> by Lawrence Lessig (available in hardcover, paperback, Kindle, or as a free download [here](https://archive.org/details/LawrenceLessigRemix))
+
+This syllabus is a living document and will evolve every week with links to readings and resources. If you come across anything interesting in your work or research, send it to me and I'll post it here for the class. I will also be posting sample code in this repo.  
 
 I welcome feedback and am eager to hear your thoughts about the class.  If something isn’t working for you, do not hesitate to let me know.  The sooner I find out about any issues, the sooner I can fix them!  
 
@@ -47,6 +49,7 @@ ASSIGNMENT: Watch [Everything is a Remix](http://everythingisaremix.info/watch-t
 
 ### Week 2 (April 2): Music
 - <strong>Presentations:</strong> Karl Ward, Matthew Goral & Allison Ye
+- "Revolution 9" and the sound collage
 - Hip-hop & sampling
   - The evolution of dub from reggae, and hip-hop from dub
   - The producer as an artist
@@ -55,12 +58,13 @@ ASSIGNMENT: Watch [Everything is a Remix](http://everythingisaremix.info/watch-t
   - Pop music
   - The Grey Album and its derivatives
   - Girl Talk and the mash-up
+  - Negativland and U2
 
 ASSIGNMENT: Choose a song that is based heavily around samples. Research the origin of those samples and analyze how they are being used. Were the samples chosen for any intent other than simply sounding good? Post your analysis to your blog.  
 ASSIGNMENT: Watch [Everything is a Remix](http://everythingisaremix.info/watch-the-series/), parts 3 & 4  
 
 ### Week 3 (April 9): Video, YouTube & the Internet
-- Presentations: Ross Goodwin, Sweta Mohapatra & Tessa Ndiaye
+- <strong>Presentations:</strong> Ross Goodwin, Sweta Mohapatra & Tessa Ndiaye
 - The art of the video mash-up
   - The supercut
   - The re-cut
@@ -75,7 +79,7 @@ ASSIGNMENT: Watch [Everything is a Remix](http://everythingisaremix.info/watch-t
 ASSIGNMENT: Create a video mash-up. You can do this either programmatically, using the YouTube API or another API of your choice, or you can construct it using more traditional video editing software. The source videos should be re-arranged to tell an entirely different story (term used loosely) from the initial intent. You are not allowed to shoot any new footage for this assignment. If you need ideas or inspiration, refer to the examples shown in class this week.  
 
 ### Week 4 (April 16): Contemporary Art & Culture Jamming
-- Presentations: Michael Simon & Byoung Han 
+- <strong>Presentations:</strong> Michael Simon & Byoung Han 
 - Watch video mash-up assignments
 - Guest Lecture: TBD
 - Remix in contemporary visual art
@@ -85,13 +89,14 @@ ASSIGNMENT: Create a video mash-up. You can do this either programmatically, usi
 ASSIGNMENT: Come up with an idea for a final project. This is extremely open ended; the only stipulation is that the content you are using to create the work must come 75% or more from other sources. Post your proposal to your blog.  
 
 ### Week 5 (April 23): Text
-- Presentations: Renata Kuba & Xiaolong Mou
+- <strong>Presentations:</strong> Renata Kuba & Xiaolong Mou
 - Guest Lecture: [Angie Waller](http://angiewaller.com/)
 - Burroughs and cut-ups
 - Generative text
 - CODE DEMO: Text munging strategies in Processing and JavaScript
 
-ASSIGNMENT: Continue work on final project.  
+ASSIGNMENT: Continue work on final project. 
+ASSIGNMENT: Watch [Clay Shirky: Defend Our Freedom to Share](http://www.ted.com/talks/defend_our_freedom_to_share_or_why_sopa_is_a_bad_idea)  
 
 ### Week 6 (April 30): Copyright, Fair Use & Licensing
 - Discuss final project progress
