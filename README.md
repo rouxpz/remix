@@ -37,7 +37,7 @@ ASSIGNMENT: Watch [Everything is a Remix](http://everythingisaremix.info/watch-t
   - The Grey Album and its derivatives
   - Girl Talk and the mash-up
 
-ASSIGNMENT: Choose a song that is based heavily around samples. Research the origin of those samples and analyze how they are being used. Were the samples chosen for any intent other than simply sounding good? Post your analysis to your blog.
+ASSIGNMENT: Choose a song that is based heavily around samples. Research the origin of those samples and analyze how they are being used. Were the samples chosen for any intent other than simply sounding good? Post your analysis to your blog.  
 ASSIGNMENT: Watch [Everything is a Remix](http://everythingisaremix.info/watch-the-series/), parts 3 & 4  
 
 ### Week 3: Video, YouTube & the Internet
