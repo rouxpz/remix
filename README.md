@@ -46,7 +46,7 @@ Each week, two or three students will be responsible for putting together a 5-7 
 
 ASSIGNMENT: Send me your blog link.  
 ASSIGNMENT: Read [excerpts](https://www.dropbox.com/s/eh9fubqaff7baw2/cant-stop-wont-stop-excerpt.pdf?dl=1) from <em>Can't Stop Won't Stop: A History of the Hip Hop Generation</em> by Jeff Chang  
-ASSIGNMENT: Read ["When Did the Remix Become a Requirement?"](http://www.theawl.com/2012/01/the-remix-as-requirement) from The Awl  
+ASSIGNMENT: Read ["When Did the Remix Become a Requirement?"](http://www.theawl.com/2012/01/the-remix-as-requirement) by Mike Barthel  
 ASSIGNMENT: Read [ “Regressive and Reflexive Mashups in Sampling Culture"](http://remixtheory.net/?p=444) by Eduardo Navas (PDF available [here](http://remixtheory.net/remixImages/NavasMashups_2010.pdf))  
 ASSIGNMENT: Watch [Everything is a Remix](http://everythingisaremix.info/watch-the-series/), parts 1 & 2  
 
