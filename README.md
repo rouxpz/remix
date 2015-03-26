@@ -40,9 +40,7 @@ I welcome feedback and am eager to hear your thoughts about the class.  If somet
 - What does "remix" actually mean?
 - Read-only (RO) culture vs. read-write (RW) culture
 - Collage, montage & the first forms of recontextualization  
-
-Resources:
-- [Remix Theory](http://remixtheory.net/)  
+- [Slides from class here]()  
 
 Each week, two or three students will be responsible for putting together a 5-7 minute presentation on the following week's topic. The students will each pick ONE example of what we will be discussing in class and talk about the work, how it is an example of remix, the elements being recontextualized, and how the work uses those elements in a new and/or improved context.
 
