@@ -3,6 +3,7 @@
 Spring 2015
 
 <strong>Roopa Vasudevan</strong>  
+[roopa.vasudevan@nyu.edu](mailto:roopa.vasudevan@nyu.edu)  
 Class Time: Thursdays, 3:20 - 5:50PM  
 Office Hours: TBD  
 
