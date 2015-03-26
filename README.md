@@ -97,6 +97,7 @@ ASSIGNMENT: Read Part 1, section 5 & Part 2 of <em>Remix</em>.
 - Guest Lecture: [Angie Waller](http://angiewaller.com/)
 - Burroughs and cut-ups
 - Generative text
+- Fan fiction
 - The "reclamation" of language
 - CODE DEMO: Text munging strategies in Processing and JavaScript
 - CODE DEMO: Using social media APIs to remix text
