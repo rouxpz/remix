@@ -44,7 +44,7 @@ I welcome feedback and am eager to hear your thoughts about the class.  If somet
 Each week, two or three students will be responsible for putting together a 5-7 minute presentation on the following week's topic. The students will each pick ONE example of what we will be discussing in class and talk about the work, how it is an example of remix, the elements being recontextualized, and how the work uses those elements in a new and/or improved context.
 
 ASSIGNMENT: Send me your blog link.  
-ASSIGNMENT: Read [excerpts from Can't Stop Won't Stop](https://www.dropbox.com/s/eh9fubqaff7baw2/cant-stop-wont-stop-excerpt.pdf?dl=1)  
+ASSIGNMENT: Read [excerpts](https://www.dropbox.com/s/eh9fubqaff7baw2/cant-stop-wont-stop-excerpt.pdf?dl=1) from <em>Can't Stop Won't Stop: A History of the Hip Hop Generation</em> by Jeff Chang  
 ASSIGNMENT: Read ["When Did the Remix Become a Requirement?"](http://www.theawl.com/2012/01/the-remix-as-requirement) from The Awl  
 ASSIGNMENT: Watch [Everything is a Remix](http://everythingisaremix.info/watch-the-series/), parts 1 & 2  
 
