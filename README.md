@@ -14,7 +14,7 @@ This course explores remix, recontextualization, and reappropriation as artistic
 This two-credit course will meet the last seven weeks of the semester. 
 
 ### Class Expectations
-<strong>Attendance:</strong> You are expected to attend every class session, and to arrive on time. More than two (2) absences will result in a failing grade. A lateness of more than 10 minutes will result in an absence for that day.  
+<strong>Attendance:</strong> You are expected to attend every class session, and to arrive on time. Two (2) absences or more will result in a failing grade. Unexcused lateness of more than 15 minutes will result in an absence for that day.  
 
 <strong>Participation:</strong> Participation is very important and will impact grading. All students are expected to contribute during class discussions. Please pay attention when fellow students are presenting their work and be prepared to give thoughtful, considerate feedback. Keep all feedback related to the work only; personal attacks will not be tolerated.  
 
