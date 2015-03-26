@@ -51,7 +51,7 @@ ASSIGNMENT: Read [ “Regressive and Reflexive Mashups in Sampling Culture"](htt
 ASSIGNMENT: Watch [Everything is a Remix](http://everythingisaremix.info/watch-the-series/), parts 1 & 2  
 
 ### Week 2 (April 2): Music
-- <strong>Presentations:</strong> Karl Ward, Matthew Goral & Allison Ye
+- <strong>Presentations:</strong> Matthew Goral, Karl Ward & Allison Ye
 - "Revolution 9" and the sound collage
 - Hip-hop & sampling
   - The evolution of dub from reggae, and hip-hop from dub
@@ -61,7 +61,7 @@ ASSIGNMENT: Watch [Everything is a Remix](http://everythingisaremix.info/watch-t
   - Pop music
   - The Grey Album and its derivatives
   - Girl Talk and mash-ups
-  - Negativland and U2
+  - Negativland and "U2"
 
 ASSIGNMENT: Choose a song that is based heavily around samples. Research the origin of those samples and analyze how they are being used. Were the samples chosen for any intent other than simply sounding good? Post your analysis to your blog.  
 ASSIGNMENT: Read introduction and Part 1, sections 1-4 of <em>Remix</em>  
@@ -84,7 +84,7 @@ ASSIGNMENT: Create a video mash-up. You can do this either programmatically, usi
 ASSIGNMENT: Read ["The Ecstasy of Influence"](http://harpers.org/archive/2007/02/the-ecstasy-of-influence/) by Jonathan Lethem (note: there are 11 pages to this article!)  
 
 ### Week 4 (April 16): Contemporary Art & Culture Jamming
-- <strong>Presentations:</strong> Michael Simon & Byoung Han 
+- <strong>Presentations:</strong> Byoung Han & Michael Simon  
 - Watch video mash-up assignments
 - Guest Lecture: TBD
 - Remix in contemporary visual art
@@ -95,7 +95,7 @@ ASSIGNMENT: Come up with an idea for a final project. This is extremely open end
 ASSIGNMENT: Read Part 1, section 5 & Part 2 of <em>Remix</em>.  
 
 ### Week 5 (April 23): Text
-- <strong>Presentations:</strong> Renata Kuba & Xiaolong Mou
+- <strong>Presentations:</strong> Constantine Koumoussis, Renata Kuba & Xiaolong Mou
 - Guest Lecture: [Angie Waller](http://angiewaller.com/)
 - Burroughs and cut-ups
 - Generative text
