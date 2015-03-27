@@ -40,7 +40,7 @@ I welcome feedback and am eager to hear your thoughts about the class.  If somet
 - What does "remix" actually mean?
 - Read-only (RO) culture vs. read-write (RW) culture
 - Collage, montage & the first forms of recontextualization  
-- [Slides from class here]()  
+- [Slides from class here](https://docs.google.com/presentation/d/1Gevph_E1vGUa2xM1NT7sNZ6mK8FMHJJsfY7bXo0rNqM/edit?usp=sharing)  
 
 Each week, two or three students will be responsible for putting together a 5-7 minute presentation on the following week's topic. The students will each pick ONE example of what we will be discussing in class and talk about the work, how it is an example of remix, the elements being recontextualized, and how the work uses those elements in a new and/or improved context.
 
@@ -68,7 +68,7 @@ ASSIGNMENT: Read introduction and Part 1, sections 1-4 of <em>Remix</em>
 ASSIGNMENT: Watch [Everything is a Remix](http://everythingisaremix.info/watch-the-series/), parts 3 & 4  
 
 ### Week 3 (April 9): Video, YouTube & the Internet
-- <strong>Presentations:</strong> Ross Goodwin, Sweta Mohapatra & Tessa Ndiaye
+- <strong>Presentations:</strong> Ross Goodwin, Xiaolong Mou & Tessa Ndiaye
 - The art of the video mash-up
   - The supercut
   - The re-cut
@@ -96,7 +96,7 @@ ASSIGNMENT: Come up with an idea for a final project. This is extremely open end
 ASSIGNMENT: Read Part 1, section 5 & Part 2 of <em>Remix</em>.  
 
 ### Week 5 (April 23): Text
-- <strong>Presentations:</strong> Constantine Koumoussis, Renata Kuba & Xiaolong Mou
+- <strong>Presentations:</strong> Constantine Koumoussis, Renata Kuba & Sweta Mohapatra
 - Guest Lecture: [Angie Waller](http://angiewaller.com/)
 - Burroughs and cut-ups
 - Generative text
