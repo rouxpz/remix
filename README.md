@@ -57,6 +57,7 @@ ASSIGNMENT: Watch [Everything is a Remix](http://everythingisaremix.info/watch-t
   - The evolution of dub from reggae, and hip-hop from dub
   - The producer as an artist
   - Important moments in the history of sampling
+  - [Nice little video](https://youtu.be/5SaFTm2bcac) on the "Amen Break" and its importance to music
 - The remix as its own musical genre
   - Pop music
   - The Grey Album and its derivatives
