@@ -64,7 +64,7 @@ ASSIGNMENT: Watch [Everything is a Remix](http://everythingisaremix.info/watch-t
   - Girl Talk and mash-ups
   - Negativland and "U2"
 
-ASSIGNMENT: Choose a song that is based heavily around samples. Research the origin of those samples and analyze how they are being used. Were the samples chosen for any intent other than simply sounding good? Post your analysis to your blog.  
+ASSIGNMENT: Choose a song that is based heavily around samples. Research the origin of those samples and analyze how they are being used. Were the samples chosen for any intent other than simply sounding good? Post your analysis to your blog, and post the link on [the wiki](https://github.com/rouxpz/remix/wiki/This-is-the-Remix:-Assignments-Spring-2015).  
 ASSIGNMENT: Read introduction and Part 1, sections 1-4 of <em>Remix</em>  
 ASSIGNMENT: Watch [Everything is a Remix](http://everythingisaremix.info/watch-the-series/), parts 3 & 4  
 ASSIGNMENT: Read/watch [A History of Subversive Video Remix Before YouTube](http://journal.transformativeworks.org/index.php/twc/article/view/371/299)  
