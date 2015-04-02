@@ -67,6 +67,7 @@ ASSIGNMENT: Watch [Everything is a Remix](http://everythingisaremix.info/watch-t
 ASSIGNMENT: Choose a song that is based heavily around samples. Research the origin of those samples and analyze how they are being used. Were the samples chosen for any intent other than simply sounding good? Post your analysis to your blog.  
 ASSIGNMENT: Read introduction and Part 1, sections 1-4 of <em>Remix</em>  
 ASSIGNMENT: Watch [Everything is a Remix](http://everythingisaremix.info/watch-the-series/), parts 3 & 4  
+ASSIGNMENT: Read/watch [A History of Subversive Video Remix Before YouTube](http://journal.transformativeworks.org/index.php/twc/article/view/371/299)  
 
 ### Week 3 (April 9): Video, YouTube & the Internet
 - <strong>Presentations:</strong> Ross Goodwin, Xiaolong Mou & Tessa Ndiaye
