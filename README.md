@@ -88,9 +88,10 @@ ASSIGNMENT: Create a video mash-up. You can do this either programmatically, usi
 ASSIGNMENT: Read ["The Ecstasy of Influence"](http://harpers.org/archive/2007/02/the-ecstasy-of-influence/) by Jonathan Lethem (note: there are 11 pages to this article!)  
 
 ### Week 4 (April 16): Contemporary Art & Culture Jamming
+- <strong>Note: Class will start at 3pm this week</strong>
 - <strong>Presentations:</strong> Byoung Han & Michael Simon  
 - Watch video mash-up assignments
-- Guest Lecture: TBD
+- Guest Lecture: Andy Bichlbaum of The Yes Men
 - Remix in contemporary visual art
   - [26 Modern Takes on Famous Paintings](http://weburbanist.com/2011/11/07/art-remix-26-modern-takes-on-famous-paintings/)
 - Graffiti and street art
