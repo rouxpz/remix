@@ -63,6 +63,7 @@ ASSIGNMENT: Watch [Everything is a Remix](http://everythingisaremix.info/watch-t
   - The Grey Album and its derivatives
   - Girl Talk and mash-ups
   - Negativland and "U2"
+- [Slides from class here](https://docs.google.com/presentation/d/1JzDnooxPVlxWG6uohReONNODF-yaFUGNUQa0hx2feTk/edit?usp=sharing)
 
 ASSIGNMENT: Choose a song that is based heavily around samples. Research the origin of those samples and analyze how they are being used. Were the samples chosen for any intent other than simply sounding good? Post your analysis to your blog, and post the link on [the wiki](https://github.com/rouxpz/remix/wiki/This-is-the-Remix:-Assignments-Spring-2015).  
 ASSIGNMENT: Read introduction and Part 1, sections 1-4 of <em>Remix</em>  
@@ -91,6 +92,7 @@ ASSIGNMENT: Read ["The Ecstasy of Influence"](http://harpers.org/archive/2007/02
 - Watch video mash-up assignments
 - Guest Lecture: TBD
 - Remix in contemporary visual art
+  - [26 Modern Takes on Famous Paintings](http://weburbanist.com/2011/11/07/art-remix-26-modern-takes-on-famous-paintings/)
 - Graffiti and street art
 - What is culture jamming?
 
