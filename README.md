@@ -91,7 +91,7 @@ ASSIGNMENT: Read ["The Ecstasy of Influence"](http://harpers.org/archive/2007/02
 - <strong>Note: Class will start at 3pm this week</strong>
 - <strong>Presentations:</strong> Byoung Han & Michael Simon  
 - Watch video mash-up assignments
-- Guest Lecture: Andy Bichlbaum of The Yes Men
+- Guest Lecture: Andy Bichlbaum of [The Yes Men](http://theyesmen.org/)
 - Remix in contemporary visual art
   - [26 Modern Takes on Famous Paintings](http://weburbanist.com/2011/11/07/art-remix-26-modern-takes-on-famous-paintings/)
 - Graffiti and street art
