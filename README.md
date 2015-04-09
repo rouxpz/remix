@@ -82,7 +82,10 @@ ASSIGNMENT: Read/watch [A History of Subversive Video Remix Before YouTube](http
   - Mash-ups of Internet memes
 - Generative video remixes
 - CODE DEMO: Using the YouTube API
-- CODE DEMO: Basic datamoshing and glitch techniques
+- DEMO: Basic datamoshing and glitch techniques
+- Resource: [Videogrep](https://github.com/antiboredom/videogrep) by Sam Lavigne
+- Resource: [YouTube API Samples](https://github.com/youtube/api-samples) for multiple languages, including JavaScript
+- Resource: Some good [glitch tutorials](http://danieltemkin.com/Tutorials)
 
 ASSIGNMENT: Create a video mash-up. You can do this either programmatically, using the YouTube API or another API of your choice, or you can construct it using more traditional video editing software. The source videos should be re-arranged to tell an entirely different story (term used loosely) from the initial intent. You are not allowed to shoot any new footage for this assignment. If you need ideas or inspiration, refer to the examples shown in class this week.  
 ASSIGNMENT: Read ["The Ecstasy of Influence"](http://harpers.org/archive/2007/02/the-ecstasy-of-influence/) by Jonathan Lethem (note: there are 11 pages to this article!)  
