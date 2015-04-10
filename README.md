@@ -84,6 +84,7 @@ ASSIGNMENT: Read/watch [A History of Subversive Video Remix Before YouTube](http
 - CODE DEMO: Using the YouTube API
 - DEMO: Basic datamoshing and glitch techniques
 - Resource: [Videogrep](https://github.com/antiboredom/videogrep) by Sam Lavigne
+- Resource: [YouTube API Documentation](https://developers.google.com/youtube/v3/getting-started)
 - Resource: [YouTube API Samples](https://github.com/youtube/api-samples) for multiple languages, including JavaScript
 - Resource: Some good [glitch tutorials](http://danieltemkin.com/Tutorials)
 

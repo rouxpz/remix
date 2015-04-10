@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Search</title>
+  </head>
+  <body>
+    <div id="buttons">
+      <label> <input id="query" value='cats' type="text"/><button id="search-button" disabled onclick="search()">Search</button><button id="load video" onclick="loadIframe()">Load Video</button></label>
+    </div>
+    <div id="search-container">
+    </div>
+    <iframe id="frame" width="480" height="360" src="" frameborder="0" allowfullscreen></iframe>
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script src="auth.js"></script>
+    <script src="search-modified.js"></script>
+    <script src="https://apis.google.com/js/client.js?onload=googleApiClientReady"></script>
+  </body>
+</html>
