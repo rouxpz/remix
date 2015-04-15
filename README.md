@@ -117,6 +117,7 @@ ASSIGNMENT: Read Part 1, section 5 & Part 2 of <em>Remix</em>.
 ASSIGNMENT: Continue work on final project.  
 ASSIGNMENT: Read Part 3 of <em>Remix</em>.  
 ASSIGNMENT: Watch [Clay Shirky: Defend Our Freedom to Share](http://www.ted.com/talks/defend_our_freedom_to_share_or_why_sopa_is_a_bad_idea)  
+ASSIGNMENT: Catch up on reading if you're behind!  
 
 ### Week 6 (April 30): Copyright, Fair Use & Licensing
 - Discuss final project progress
