@@ -102,6 +102,7 @@ ASSIGNMENT: Read ["The Ecstasy of Influence"](http://harpers.org/archive/2007/02
   - [26 Modern Takes on Famous Paintings](http://weburbanist.com/2011/11/07/art-remix-26-modern-takes-on-famous-paintings/)
 - Graffiti and street art
 - What is culture jamming?
+- [Slides from class here](https://docs.google.com/presentation/d/1oTBdFv1OE9DkAmW5XtRYPW7RA6uRiaoM47DYwbbHhjs/edit?usp=sharing)
 
 ASSIGNMENT: Come up with an idea for a final project. This is extremely open ended; the only stipulation is that the content you are using to create the work must come 75% or more from other sources. Post your proposal to your blog, and sign up for office hours [here](https://www.google.com/calendar/selfsched?sstoken=UUg1cHhnU1ZYQjdffGRlZmF1bHR8MDA3Yzk1YWJjNWQzODJhZDQ2ZWYxZWI2MWQxM2JhODY) to discuss your idea with me one on one next week.  
 ASSIGNMENT: Read Part 1, section 5 & Part 2 of <em>Remix</em>.  
