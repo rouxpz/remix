@@ -111,20 +111,23 @@ ASSIGNMENT: Read Part 1, section 5 & Part 2 of <em>Remix</em>.
 - <strong>Presentations:</strong> Constantine Koumoussis, Renata Kuba & Sweta Mohapatra
 - Guest Lecture: [Angie Waller](http://angiewaller.com/)
 - Burroughs and cut-ups
-- Generative text
+- Generative text and social media
+  - [Nice article on Horse_ebooks from the New Yorker](http://www.newyorker.com/magazine/2014/02/10/man-and-machine-2)
 - Fan fiction
 - The "reclamation" of language
-- CODE DEMO: Text munging strategies in Processing and JavaScript
+- CODE DEMO: Text munging strategies in Processing
 - CODE DEMO: Using social media APIs to remix text
+- Resource: [Dan Shiffman's Programming from A to Z syllabus](https://github.com/shiffman/Programming-from-A-to-Z-F14) is a great resource if you're interested exploring text analysis and remix in JavaScript.
 
 ASSIGNMENT: Continue work on final project.  
 ASSIGNMENT: Read Part 3 of <em>Remix</em>.  
 ASSIGNMENT: Watch [Clay Shirky: Defend Our Freedom to Share](http://www.ted.com/talks/defend_our_freedom_to_share_or_why_sopa_is_a_bad_idea)  
-ASSIGNMENT: Catch up on reading if you're behind!  
+ASSIGNMENT: Catch up on reading if you're behind! 
+ASSIGNMENT: Come in to class next week prepared to give a quick update on the status of your project.   
 
 ### Week 6 (April 30): Copyright, Fair Use & Licensing
 - Discuss final project progress
-- Guest Lecture: [Elisa Kreisinger](http://www.popculturepirate.com/#about)
+- Discussion of reading
 - Copyright and legal hazards faced by remix artists
 - What fair use is... and what it is not
 - The Digital Millenium Copyright Act (DMCA)
@@ -133,3 +136,4 @@ ASSIGNMENT: Catch up on reading if you're behind!
 ASSIGNMENT: Continue work on final project.  
 
 ### Week 7 (May 7): Final Project Presentations
+- Guest Lecture/Critic: [Elisa Kreisinger](http://www.popculturepirate.com/#about)
