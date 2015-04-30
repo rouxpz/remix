@@ -118,6 +118,7 @@ ASSIGNMENT: Read Part 1, section 5 & Part 2 of <em>Remix</em>.
 - CODE DEMO: Text munging strategies in Processing
 - CODE DEMO: Using social media APIs to remix text
 - Resource: [Dan Shiffman's Programming from A to Z syllabus](https://github.com/shiffman/Programming-from-A-to-Z-F14) is a great resource if you're interested exploring text analysis and remix in JavaScript.
+- [Slides from class here](https://docs.google.com/presentation/d/1YCo11KoAxulhMbReDwDMIVKB-i78Fs8TUCJhzyiTaRs/edit?usp=sharing)
 
 ASSIGNMENT: Continue work on final project.  
 ASSIGNMENT: Read Part 3 of <em>Remix</em>.  
@@ -129,9 +130,12 @@ ASSIGNMENT: Come in to class next week prepared to give a quick update on the st
 - Discuss final project progress
 - Discussion of reading
 - Copyright and legal hazards faced by remix artists
+  - [99Designs: 5 Famous Copyright Infringement Cases](http://99designs.com/designer-blog/2013/04/19/5-famous-copyright-infringement-cases/)
+  - [Stanford University: Summaries of Fair Use Cases](http://fairuse.stanford.edu/overview/fair-use/cases/)
+  - [Wired article](http://archive.wired.com/wired/archive/3.01/negativland_pr.html) about Negativland's "U2" legal troubles
 - What fair use is... and what it is not
 - The Digital Millenium Copyright Act (DMCA)
-- Creative Commons
+- [Creative Commons](http://creativecommons.org)
 
 ASSIGNMENT: Continue work on final project.  
 

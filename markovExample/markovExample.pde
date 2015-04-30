@@ -7,7 +7,7 @@ void setup() {
   RiText.defaultFontSize(18);
   new RiText(this, "click to generate");
   
-  m = new RiMarkov(4);
+  m = new RiMarkov(4); //n-gram of 3
   m.loadFrom(new String[] {"annakarenina.txt", "warandpeace.txt"}, this);
   
 }
@@ -24,7 +24,7 @@ void mousePressed() {
   
   RiText.disposeAll();
   
-  String[] lines = m.generateSentences(10);
+  String[] lines = m.generateSentences(5);
   
   RiText.createLines(this, lines, 50, 50, 400, 400);
   

@@ -13,10 +13,10 @@ void setup() {
 
   //OAuth credentials
   ConfigurationBuilder cb = new ConfigurationBuilder();
-  cb.setOAuthConsumerKey("YOUR_KEY");
-  cb.setOAuthConsumerSecret("YOUR_SECRET");
-  cb.setOAuthAccessToken("YOUR_TOKEN");
-  cb.setOAuthAccessTokenSecret("YOUR_SECRET");
+  cb.setOAuthConsumerKey("YOUR_KEY_HERE");
+  cb.setOAuthConsumerSecret("YOUR_SECRET_HERE");
+  cb.setOAuthAccessToken("YOUR_KEY_HERE");
+  cb.setOAuthAccessTokenSecret("YOUR_SECRET_HERE");
 
   //new Twitter instance
   tf = new TwitterFactory(cb.build());
@@ -82,7 +82,7 @@ void searchTweets() {
       for (int i = 0; i < tweets.size(); i ++) {
 
         Status s = (Status) tweets.get(i);
-        String user = "" + s.getUser().getScreenName();
+        String user = "" + s.getText();
         
         fill(255);
         text(user, random(50, width-50), random(50, height-50));
