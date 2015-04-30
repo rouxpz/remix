@@ -136,6 +136,7 @@ ASSIGNMENT: Come in to class next week prepared to give a quick update on the st
 - What fair use is... and what it is not
 - The Digital Millenium Copyright Act (DMCA)
 - [Creative Commons](http://creativecommons.org)
+- [Slides from class here](https://docs.google.com/presentation/d/1JAM9niXo2OQdGcCaJ4dgeEWlrfMoAhVaiCq-aQPvEFg/edit?usp=sharing)
 
 ASSIGNMENT: Continue work on final project.  
 
